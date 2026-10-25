@@ -23,3 +23,5 @@ Ordering the PCB
 
 Upload the Gerber files from pcb/production/ to a PCB manufacturer such as JLCPCB or PCBWay. 
 The default options (2 layers, 1.6 mm thickness) work fine.
+
+![My macropad](image/preview.webp)
